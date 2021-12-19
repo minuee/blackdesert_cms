@@ -1,0 +1,1066 @@
+[
+  {
+    "no": 1,
+    "correct_answer": 1,
+    "question": {
+      "ko": "검은사막에서 흑정령을 처음 만났을 때 치아 갯수는 몇개일까요?",
+      "en": "How many teeth does the Black Spirit have at the very beginning of the game?",
+      "ru": "Сколько зубов было у Черного духа при первой встрече с ним?",
+      "th": "จำนวนฟันของภูตดำตอนที่พบ \nครั้งแรก มีทั้งหมดกี่ซี่ ?",
+      "tr": "Kara Ruh ile ilk karşılaşıldığında Kara Ruh'un kaç adet dişi vardır?",
+      "pt": "Quantos dentes o Espírito Negro tem na primeira vez que vocês se encotram?",
+      "zh": "第一次見到黑精靈時，黑精靈的牙齒數量為？",
+      "ja": "初めて会った時、闇の精霊の歯の数は何本だったでしょうか？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "0개",
+          "en": "0",
+          "ru": "Не было зубов",
+          "th": "0 ซี่",
+          "tr": "0",
+          "pt": "0",
+          "zh": "0個",
+          "ja": "0本"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "2개",
+          "en": "2",
+          "ru": "2 зуба",
+          "th": "2 ซี่",
+          "tr": "2",
+          "pt": "2",
+          "zh": "2個",
+          "ja": "2本"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "10개",
+          "en": "10",
+          "ru": "10 зубов",
+          "th": "10 ซี่",
+          "tr": "10",
+          "pt": "10",
+          "zh": "10個",
+          "ja": "10本"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "32개",
+          "en": "32",
+          "ru": "32 зуба",
+          "th": "32 ซี่",
+          "tr": "32",
+          "pt": "32",
+          "zh": "32個",
+          "ja": "32本"
+        }
+      }
+    ],
+    "reward_rate": "40%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_1/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : J의 특별한 주문서 5개",
+          "en": "Black Desert PC & Console : J's Special Scroll x5",
+          "ru": "Black Desert PC & Console : Особый свиток J (5 шт.)",
+          "th": "Black Desert PC & Console : คัมภีร์พิเศษของ J 5 อัน",
+          "tr": "Black Desert PC & Console : J'nin Özel Parşömeni x5",
+          "pt": "Black Desert PC & Console : 5x Pergaminho Especial do J",
+          "zh": "Black Desert PC & Console : J的特別咒文書 5個",
+          "ja": "Black Desert PC & Console : Jの特別なスクロール 5枚"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_1/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 발크스의 꾸러미 20개",
+          "en": "Black Desert Mobile : Valks' Pack x20",
+          "ru": "Black Desert Mobile : Сверток Валкса х20",
+          "th": "Black Desert Mobile : ห่อของบาลค์ 20 อัน",
+          "tr": "Black Desert Mobile : Valks' Pack x20",
+          "pt": "Black Desert Mobile : x20 Trouxa de Valks",
+          "zh": "Black Desert Mobile : 巴爾克斯的禮包 20個",
+          "ja": "Black Desert Mobile : ヴォルクスの束20個"
+        }
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "correct_answer": 3,
+    "question": {
+      "ko": "시청하신 영상에서 등장하는 말은 몇마리 일까요?",
+      "en": "Pay close attention to the video.\nHow many horses appear in the video?",
+      "ru": "Внимательно посмотрите видео.\nСколько лошадей появляется в видео.",
+      "th": "กรุณาตั้งใจชมคลิปวิดีโอ \nจำนวนม้าในคลิปวิดีโอ มีทั้งหมดกี่ตัว ?",
+      "tr": "Videoyu dikkatlice izleyiniz. \nİzlediğiniz videoda kaç adet at vardı?",
+      "pt": "Assista atentamente ao video e responda: quantos Cavalos aparecem no video?",
+      "zh": "請仔細觀看影片， \n 影片中出現的馬的數量是？",
+      "ja": "映像をよく見てください。 \n次の映像で登場する馬の数は？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "2마리",
+          "en": "2",
+          "ru": "2 лошади",
+          "th": "2 ตัว",
+          "tr": "2 Adet",
+          "pt": "2",
+          "zh": "2隻",
+          "ja": "2匹"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "6마리",
+          "en": "6",
+          "ru": "6 лошадей",
+          "th": "6 ตัว",
+          "tr": "6 Adet",
+          "pt": "6",
+          "zh": "6隻",
+          "ja": "6匹"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "4마리",
+          "en": "4",
+          "ru": "4 лошади",
+          "th": "4 ตัว",
+          "tr": "4 Adet",
+          "pt": "4",
+          "zh": "4隻",
+          "ja": "4匹"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "8마리",
+          "en": "8",
+          "ru": "8 лошадей",
+          "th": "8 ตัว",
+          "tr": "8 Adet",
+          "pt": "8",
+          "zh": "8隻",
+          "ja": "8匹"
+        }
+      }
+    ],
+    "reward_rate": "20%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_2/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 크론석 100개",
+          "en": "Black Desert PC & Console : Cron Stone x100",
+          "ru": "Black Desert PC & Console : Камень Крон (100 шт.)",
+          "th": "Black Desert PC & Console : หินครอน 100 อัน",
+          "tr": "Black Desert PC & Console : Cron Taşı x100",
+          "pt": "Black Desert PC & Console : 100x Pedra Cron",
+          "zh": "Black Desert PC & Console : 克羅恩石 100個",
+          "ja": "Black Desert PC & Console : クロン石 100個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_2/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 핫타임 200% (3시간) 5개",
+          "en": "Black Desert Mobile : 200% Hot Time (3 Hours) x5",
+          "ru": "Black Desert Mobile : Бонусное время 200% (3 ч.) х5",
+          "th": "Black Desert Mobile : Hot Time 200% (3 ชั่วโมง) 5 อัน",
+          "tr": "Black Desert Mobile : 200% Hot Time (3 Hours) x5",
+          "pt": "Black Desert Mobile : x5 Hot Time 200% (3 Horas)",
+          "zh": "Black Desert Mobile : 狂熱時光 200% (3小時) 5個",
+          "ja": "Black Desert Mobile : HOT TIME200%(3時間)5個"
+        }
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "correct_answer": 2,
+    "question": {
+      "ko": "벨리아 마을에 위치한 NPC 알루스틴의 직업은?",
+      "en": "What is Alustin's occupation?",
+      "ru": "Чем занимается Аллустин?",
+      "th": "อาชีพของอัลลุสตินคืออะไร ?",
+      "tr": "Alustin'in mesleği nedir?",
+      "pt": "Qual é a profissão de Alustin?",
+      "zh": "艾羅斯汀的職業是？",
+      "ja": "アルスティンの職業は？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "월드 보스",
+          "en": "World Boss",
+          "ru": "Мировой босс",
+          "th": "เวิลด์บอส",
+          "tr": "Dünya Bossu",
+          "pt": "Chefe de Mundo",
+          "zh": "世界王",
+          "ja": "ワールドボス"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "연금술사",
+          "en": "Alchemist",
+          "ru": "Алхимик",
+          "th": "นักเล่นแร่แปรธาตุ",
+          "tr": "Kimyager",
+          "pt": "Alquimista",
+          "zh": "煉金術師",
+          "ja": "錬金術師"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "의상 제작자",
+          "en": "Costume Crafter",
+          "ru": "Портной",
+          "th": "ผู้ผลิตชุด",
+          "tr": "Kıyafet Üreticisi",
+          "pt": "Artesão de Traje",
+          "zh": "服裝製作者",
+          "ja": "衣装製作者"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "신성대학 학생",
+          "en": "Holy College Student",
+          "ru": "Учащийся Духовной академии",
+          "th": "นักศึกษาสถาบันศึกษาศักดิ์สิทธิ์",
+          "tr": "Kutsal Okul Öğrencisi",
+          "pt": "Aluno da Academia Sagrada",
+          "zh": "神聖大學學生",
+          "ja": "神聖大学の学生"
+        }
+      }
+    ],
+    "reward_rate": "50%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_3/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 가문 가방 최대 슬롯 1칸 확장권 2개",
+          "en": "Black Desert PC & Console : Family Inventory +1 Expansion Coupon x2",
+          "ru": "Black Desert PC & Console : Расширение инвентаря аккаунта (1 слот) (2 шт.)",
+          "th": "Black Desert PC & Console : ใบขยายช่องกระเป๋าตระกูลสูงสุด 1 ช่อง 2 อัน",
+          "tr": "Black Desert PC & Console : Aile Envanteri Slotu +1 Genişletme Kuponu x2",
+          "pt": "Black Desert PC & Console : 2x Cupom de Expansão do Inventário da Família +1",
+          "zh": "Black Desert PC & Console : 家門背包欄位1格擴張券 2個",
+          "ja": "Black Desert PC & Console : 家門バッグスロット1マス拡張券 2個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_3/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 토템 상자 500",
+          "en": "Black Desert Mobile : Totem Chest x500",
+          "ru": "Black Desert Mobile : Сундук с тотемом х500",
+          "th": "Black Desert Mobile : กล่องโทเทม 500 อัน",
+          "tr": "Black Desert Mobile : Totem Chest x500",
+          "pt": "Black Desert Mobile : x500 Baú de Totem",
+          "zh": "Black Desert Mobile : 圖騰箱子 500個",
+          "ja": "Black Desert Mobile : トーテム箱500個"
+        }
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "correct_answer": 3,
+    "question": {
+      "ko": "다음 중 검은사막에서 탑승이 불가한 것은 무엇일까요?",
+      "en": "Which of the following \n is not a rideable mount \n in Black Desert?",
+      "ru": "На чем нельзя передвигаться в Black Desert?",
+      "th": "สิ่งใดไม่ใช่พาหนะในโลกแห่ง Black Desert ?",
+      "tr": "Black Desert dünyasında hangisine binemezsiniz?  ",
+      "pt": "Qual desses animais não é um tipo de montaria em Black Desert?",
+      "zh": "在黑色沙漠中無法騎乘的是？",
+      "ja": "黒い砂漠の世界で乗ることができないものは？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "코끼리",
+          "en": "Elephant",
+          "ru": "Слон",
+          "th": "ช้าง",
+          "tr": "Fil",
+          "pt": "Elefante",
+          "zh": "大象",
+          "ja": "ゾウ"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "말",
+          "en": "Horse",
+          "ru": "Лошадь",
+          "th": "ม้า",
+          "tr": "At",
+          "pt": "Cavalo",
+          "zh": "馬",
+          "ja": "ウマ"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "곰",
+          "en": "Bear",
+          "ru": "Медведь",
+          "th": "หมี",
+          "tr": "Ayı",
+          "pt": "Urso",
+          "zh": "熊",
+          "ja": "クマ"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "낙타",
+          "en": "Camel",
+          "ru": "Верблюд",
+          "th": "อูฐ",
+          "tr": "Deve",
+          "pt": "Camelo",
+          "zh": "駱駝",
+          "ja": "ラクダ"
+        }
+      }
+    ],
+    "reward_rate": "80%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_4/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 신비한 청빛 고둥 50개",
+          "en": "Black Desert PC & Console : Mysterious Blue Conch x50",
+          "ru": "Black Desert PC & Console : Таинственная синяя раковина (50 шт.)",
+          "th": "Black Desert PC & Console : หอยโข่งลึกลับสีฟ้า 50 อัน",
+          "tr": "Black Desert PC & Console : Gizemli Mavi Işık Deniz Kabuğu x50",
+          "pt": "Black Desert PC & Console : 50x Caracol Azul Misterioso",
+          "zh": "Black Desert PC & Console : 神秘的藍螺 50個",
+          "ja": "Black Desert PC & Console : 神秘な青いサザエ 50個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_4/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 블랙펄 300",
+          "en": "Black Desert Mobile : Black Pearl x300",
+          "ru": "Black Desert Mobile : Черный жемчуг х300",
+          "th": "Black Desert Mobile : 300 เพิร์ลดำ",
+          "tr": "Black Desert Mobile : Black Pearl x300",
+          "pt": "Black Desert Mobile : x300 Pérolas Negras",
+          "zh": "Black Desert Mobile : 黑珍珠 300個",
+          "ja": "Black Desert Mobile : 300ブラックパール"
+        }
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "correct_answer": 1,
+    "question": {
+      "ko": "지금 들리는 음악은 어느 지역의 배경음악 일까요?",
+      "en": "In which region does this music play in the background?",
+      "ru": "В каком регионе играет данная фоновая музыка (BGM)?",
+      "th": "เพลงที่บรรเลงอยู่ตอนนี้เป็นเพลงประกอบของเมืองอะไร ?",
+      "tr": "Dinlemekte olduğunuz fon müziği hangi bölgeye aittir?",
+      "pt": "Essa música é a trilha sonora de que região?",
+      "zh": "現在聽到的BGM是哪個地區的村莊呢？",
+      "ja": "今聞こえているBGMはどの地域のものでしょうか？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "세렌디아",
+          "en": "Serendia",
+          "ru": "Серендия",
+          "th": "เซเรนเดีย",
+          "tr": "Serendia",
+          "pt": "Velia",
+          "zh": "賽林迪亞",
+          "ja": "セレンディア"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "칼페온",
+          "en": "Calpheon",
+          "ru": "Кальфеон",
+          "th": "คาลเพออน",
+          "tr": "Calpheon",
+          "pt": "Calpheon",
+          "zh": "卡爾佩恩",
+          "ja": "カルフェオン"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "메디아",
+          "en": "Mediah",
+          "ru": "Медия",
+          "th": "เมเดีย",
+          "tr": "Mediah",
+          "pt": "Mediah",
+          "zh": "梅迪亞",
+          "ja": "メディア"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "발레노스",
+          "en": "Balenos",
+          "ru": "Баленос",
+          "th": "บาเลนอส",
+          "tr": "Balenos",
+          "pt": "Balenos",
+          "zh": "巴雷諾斯",
+          "ja": "バレノス"
+        }
+      }
+    ],
+    "reward_rate": "40%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_5/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 발크스의 조언 (+80) 1개",
+          "en": "Black Desert PC & Console : Advice of Valks (+80) x1",
+          "ru": "Black Desert PC & Console : Совет Валкса (+80) (1 шт.)",
+          "th": "Black Desert PC & Console : กล่องคำแนะนำของบาลค์ (+80) 1 อัน",
+          "tr": "Black Desert PC & Console : Valks'ın Tavsiyesi (+80) x1",
+          "pt": "Black Desert PC & Console : 1x Conselho de Valks (+80)",
+          "zh": "Black Desert PC & Console : 巴爾克斯的忠告(+80) 1個",
+          "ja": "Black Desert PC & Console : ヴォルクスの助言(+80) 1個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_5/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 생활 플러스 7일",
+          "en": "Black Desert Mobile : Life Plus (7 Days)",
+          "ru": "Black Desert Mobile : Хозяйство + (7 д.)",
+          "th": "Black Desert Mobile : บัฟชีวิต Plus (7 วัน)",
+          "tr": "Black Desert Mobile : Life Plus (7 Days)",
+          "pt": "Black Desert Mobile : Atividades Plus (7 Dias)",
+          "zh": "Black Desert Mobile : 生活Plus(7日) 1個",
+          "ja": "Black Desert Mobile : 生活Plus(7日)"
+        }
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "correct_answer": 4,
+    "question": {
+      "ko": "다음 중 성격이 다른 하나는 무엇일까요?",
+      "en": "Which of the following does not belong to the group?",
+      "ru": "Выберите лишнее.",
+      "th": "สิ่งใดต่อไปนี้ต่างจากพวก ? ",
+      "tr": "Aşağıdakilerden hangisi diğerlerinden farklı özelliktedir?",
+      "pt": "Qual desses inimigos é diferente dos demais?",
+      "zh": "下列中性質不同的是哪一個呢？",
+      "ja": "次の中で性質が異なるものは？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "카란다",
+          "en": "Karanda",
+          "ru": "Каранда",
+          "th": "ดารานด้า",
+          "tr": "Karanda",
+          "pt": "Karanda",
+          "zh": "卡嵐達",
+          "ja": "カランダ"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "크자카",
+          "en": "Kzarka",
+          "ru": "Кзарка",
+          "th": "คจาคาร์",
+          "tr": "Kzarka",
+          "pt": "Kzarka",
+          "zh": "克價卡",
+          "ja": "クザカ"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "누베르",
+          "en": "Nouver",
+          "ru": "Нубэр",
+          "th": "นูเวอร์",
+          "tr": "Nouver",
+          "pt": "Nouver",
+          "zh": "羅裴勒",
+          "ja": "ヌーベル"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "카드리 수문장",
+          "en": "Cadry Chief Gatekeeper",
+          "ru": "Страж Кадри\r\n/Страж Забытых руин",
+          "th": "หัวหน้ายามคาดรี",
+          "tr": "Çağrı Şefi Bekçisi",
+          "pt": "Porteiro Chefe Cadry or Guardião Cadry",
+          "zh": "卡德里守門長",
+          "ja": "カドリー門番長"
+        }
+      }
+    ],
+    "reward_rate": "80%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_6/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : [이벤트] 빛나는 샤카투의 인장 10개",
+          "en": "Black Desert PC & Console : [Event] Shining Shakatu's Seal x10",
+          "ru": "Black Desert PC & Console : [Ивент] Сияющая печать Шакату (10 шт.)",
+          "th": "Black Desert PC & Console : [กิจกรรม] เหรียญตราชาคาทูเรืองแสง 10 อัน",
+          "tr": "Black Desert PC & Console : [Etkinlik] Parıltılı Shakatu Nişanı x10",
+          "pt": "Black Desert PC & Console : 10x [Evento] Selo de Shakatu Brilhante",
+          "zh": "Black Desert PC & Console : [活動]閃亮的夏卡魯印章 10個",
+          "ja": "Black Desert PC & Console : [EV] 輝くシャカトゥの印章 10個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_6/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 아이린 7일",
+          "en": "Black Desert Mobile : Camp Manager Contract: Irene (7 Days) ",
+          "ru": "Black Desert Mobile : Контракт помощника: Айрин (7 д.)",
+          "th": "Black Desert Mobile : ผู้จัดการค่าย : ใบสัญญาไอริน (7 วัน)",
+          "tr": "Black Desert Mobile : Camp Manager Contract: Irene (7 Days) ",
+          "pt": "Black Desert Mobile : Caseiro: Contratar Irene (7 Dias)",
+          "zh": "Black Desert Mobile : 領地管理人 : 愛琳契約書(7日) 1個",
+          "ja": "Black Desert Mobile : 領地管理人：アイリン契約書(7日)"
+        }
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "correct_answer": 2,
+    "question": {
+      "ko": "다음 중 하이델 마을의 배경이 된 실제 지역 이름은 무엇일까요?",
+      "en": "Which of the following was used as inspiration for Heidel?",
+      "ru": "Какой регион в действительности послужил основой\nпри создании Хиделя?",
+      "th": "เมืองที่นำมาเป็นตัวอย่างในการสร้างหมู่บ้านไฮเดลคือเมืองอะไร ?",
+      "tr": "Heidel'in esinlenildiği gerçekte var olan bölge hangisidir? ",
+      "pt": "Qual desses lugares serviu de inspiração para Heidel?",
+      "zh": "請問海地爾村莊場景實際上是以下列哪一個城市為背景打造的呢？",
+      "ja": "次の中でハイデルのモチーフとなった実際の地名は？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "영국 브리스톨",
+          "en": "Bristol, England",
+          "ru": "Бристоль (Англия)",
+          "th": "บริสตอล อังกฤษ",
+          "tr": "İngiltere Bristol",
+          "pt": "Bristol no Reino Unido",
+          "zh": "英國布里斯托爾",
+          "ja": "ブリストル(イギリス )"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "프랑스 샤또 드 베이냑",
+          "en": "Château de Beynac, France",
+          "ru": "Замок Бенак (Франция)",
+          "th": "Chateau de Beynac ฝรั่งเศส",
+          "tr": "Fransa Chateau de Beynac",
+          "pt": "Beynac-et-Cazenac na França",
+          "zh": "法國貝奈克城堡",
+          "ja": "シャトー・ドゥ・ベイナック(フランス)"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "스페인 마드리드",
+          "en": "Madrid, Spain",
+          "ru": "Мадрид (Испания)",
+          "th": "มาดริด สเปน",
+          "tr": "İspanya Madrid",
+          "pt": "Madrid na Espanha",
+          "zh": "西班牙馬德里",
+          "ja": "マドリード(スペイン)"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "이탈리아 베니스",
+          "en": "Venice, Italy",
+          "ru": "Венеция (Италия)",
+          "th": "เวนิส อิตาลี",
+          "tr": "İtalya Venedik",
+          "pt": "Veneza na Itália",
+          "zh": "義大利威尼斯",
+          "ja": "ベニス(イタリア)"
+        }
+      }
+    ],
+    "reward_rate": "20%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_7/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 카프라스의 돌 100개",
+          "en": "Black Desert PC & Console : Caphras Stone x100",
+          "ru": "Black Desert PC & Console :  Камень Кафраса (100 шт.)",
+          "th": "Black Desert PC & Console : หินคาพลาส 100 อัน",
+          "tr": "Black Desert PC & Console : Caphras Taşı x100",
+          "pt": "Black Desert PC & Console : 100x Pedra de Caphras",
+          "zh": "Black Desert PC & Console : 卡普拉斯的石頭 100個",
+          "ja": "Black Desert PC & Console : カプラスの石 100個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_7/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 흑정령 플러스 7일",
+          "en": "Black Desert Mobile : Black Spirit Plus (7 Days)",
+          "ru": "Black Desert Mobile : Черный дух + (7 д.)",
+          "th": "Black Desert Mobile : บัฟภูตดำ Plus (7 วัน)",
+          "tr": "Black Desert Mobile : Black Spirit Plus (7 Days)",
+          "pt": "Black Desert Mobile : Espírito Negro Plus (7 Dias)",
+          "zh": "Black Desert Mobile : 黑精靈Plus(7日) 1個",
+          "ja": "Black Desert Mobile : 闇の精霊Plus(7日)"
+        }
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "correct_answer": 2,
+    "question": {
+      "ko": "시청하신 영상은 \n Black Desert PC&Console의 트레일러입니다. \n트레일러 속의 주인공이 시계를 착용했을까요?",
+      "en": "Pay close attention to the video. \n Is the hero of the Black Desert Console trailer wearing a watch? \n 1 for Yes / 2 for No.",
+      "ru": "Следующие видео - трейлер Black Desert Console. Герой видео носит часы? Да или нет?",
+      "th": "คลิปวิดีโอต่อไปนี้เป็นคลิปตัวอย่างเกม Black Desert ตัวละครเอกในคลิปวิดีโอนั้น สวมนาฬิกาอยู่ใช่หรือไม่ ?\nสวมเลือกข้อ 1 ไม่ได้สวมเลือกข้อ 2",
+      "tr": " İzlediğiniz video Black Desert Konsol tanıtım videosudur. Videonun başrolündeki kişi saat takmıştır. / takmamıştır. \n Doğru ifadeyi seçiniz.",
+      "pt": "O protagonista do trailer do Black Desert Console estava usando relógio?",
+      "zh": "請問剛剛黑色沙漠家機預告影片，\n 影片中的主角有戴手錶嗎？\n 有戴選1，沒有戴選2",
+      "ja": "次はBlack Desert Consoleのトレーラー映像です。映像の中の主人公は時計をつけていた？つけていなかった？\n\n 「つけていた」は1番、「つけていなかった」は2番"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "착용했다.",
+          "en": "Yes",
+          "ru": "Да",
+          "th": "สวม",
+          "tr": "Takmıştır",
+          "pt": "Sim",
+          "zh": "有戴",
+          "ja": "つけている"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "착용하지 않았다.",
+          "en": "No",
+          "ru": "Нет",
+          "th": "ไม่สวม",
+          "tr": "Takmamıştır",
+          "pt": "Não",
+          "zh": "沒有戴",
+          "ja": "つけていない"
+        }
+      }
+    ],
+    "reward_rate": "50%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_8/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 신비한 장인의 기억 꾸러미 1개",
+          "en": "Black Desert PC & Console : Mystical Artisan's Memory Bundle x1",
+          "ru": "Black Desert PC & Console : Таинственный сундук Памяти мастера (1 шт.)",
+          "th": "Black Desert PC & Console : ห่อความทรงจำของช่างที่น่าอัศจรรย์ 1 อัน",
+          "tr": "Black Desert PC & Console : Gizemli Zanaatkar Hafızası Paketi x1",
+          "pt": "Black Desert PC & Console : 1x Pacote de Memória do Artesão Incrível",
+          "zh": "Black Desert PC & Console : 神秘驚喜箱 1個",
+          "ja": "Black Desert PC & Console : 職人の福袋 1個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_8/item_2.png",
+        "desc": {
+          "ko": "Black desert Mobile : [심연] 수정 상자 5개",
+          "en": "Black Desert Mobile : [Abyssal] Crystal Chest x5",
+          "ru": "Black Desert Mobile : [Непостиж.] Сундук с кристаллом х5",
+          "th": "Black Desert Mobile : [โลกันตร์] กล่องอัญมณี 5 อัน",
+          "tr": "Black Desert Mobile : [Abyssal] Crystal Chest x5",
+          "pt": "Black Desert Mobile : x5 [Abissal] Baú de Gema",
+          "zh": "Black Desert Mobile : [深淵]水晶箱子 5個",
+          "ja": "Black Desert Mobile : [深淵]水晶箱5個"
+        }
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "correct_answer": 1,
+    "question": {
+      "ko": "현재 발렌시아 왕국의 국왕은 \n누구일까요?",
+      "en": "Who is the current king of Valencia?",
+      "ru": "Кто является нынешним королем Валенсии?",
+      "th": "ในปัจจุบัน ใครเป็นกษัตริย์แห่ง \n ราชอาณาจักรบาเลนเซีย ?",
+      "tr": "Valencia Krallığı'nın mevcut kralı kimdir?",
+      "pt": "Qual o nome do rei do Reino de Valência?",
+      "zh": "瓦倫西亞王國的現任國王是？",
+      "ja": "バレンシア王国の現在の国王は？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "사하자드 네세르",
+          "en": "Sahazad Nesser",
+          "ru": "Сахазард Несер (PC) /\nСахазард Нэсер (Mobile)",
+          "th": "ซาฮาจาดด์ เนเซล",
+          "tr": "Sahazad Nesser",
+          "pt": "Sahazad Nesser",
+          "zh": "薩赫佳得奈希勒",
+          "ja": "シャハザード・ネセル"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "조르다인 듀카스",
+          "en": "Jordine Ducas",
+          "ru": "Жардин Дукас",
+          "th": "จอร์ดีน ดูคัส",
+          "tr": "Jordine Ducas",
+          "pt": "Jordine Ducas",
+          "zh": "祖爾戴茵杜卡斯",
+          "ja": "ジョルダイン・デュカス"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "사야 네세르",
+          "en": "Saya Nesser",
+          "ru": "Шрея Несер (PC) / Шрея Нэсер (Mobile)",
+          "th": "ซายา เนเซล",
+          "tr": "Saya Nesser",
+          "pt": "Saya Nesser",
+          "zh": "薩亞奈希勒",
+          "ja": "サヤ・ネセル"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "바리즈 3세",
+          "en": "Bareeds III",
+          "ru": "Бализ III",
+          "th": "พระเจ้าบาเรสที่ 3",
+          "tr": "III. Bareeds ",
+          "pt": "Bareeds III",
+          "zh": "巴利斯3世",
+          "ja": "バリーズ3世"
+        }
+      }
+    ],
+    "reward_rate": "20%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_9/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console : 크론석 200개",
+          "en": "Black Desert PC & Console : Cron Stone x200",
+          "ru": "Black Desert PC & Console : Камень Крон (200 шт.)",
+          "th": "Black Desert PC & Console : หินครอน 200 อัน",
+          "tr": "Black Desert PC & Console : Cron Taşı x200",
+          "pt": "Black Desert PC & Console : 200x Pedra Cron",
+          "zh": "Black Desert PC & Console : 克羅恩石 200個",
+          "ja": "Black Desert PC & Console : クロン石 200個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_9/item_2.png",
+        "desc": {
+          "ko": "Black desert Mobile : 전투 플러스 7일",
+          "en": "Black Desert Mobile : Combat Plus (7 Days)",
+          "ru": "Black Desert Mobile : Битва + (7 д.)",
+          "th": "Black Desert Mobile : บัฟต่อสู้ Plus (7 วัน)",
+          "tr": "Black Desert Mobile : Combat Plus (7 Days)",
+          "pt": "Black Desert Mobile : Combate Plus (7 Dias)",
+          "zh": "Black Desert Mobile : 戰鬥Plus(7日) 1個",
+          "ja": "Black Desert Mobile : 戦闘Plus(7日)"
+        }
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "correct_answer": 3,
+    "question": {
+      "ko": "검은사막 하이델 분수대 석장 공사 기간 몇년일까요?",
+      "en": "How many years did it take to complete Heidel Fountain?",
+      "ru": "Сколько длятся ремонтные работы фонтана в Хиделе?",
+      "th": "ในการสร้างรูปปั้นลานน้ำพุ \n แห่งเมืองไฮเดลนั้น  \n ใช้เวลาทั้งหมดกี่ปี ?",
+      "tr": "Heidel Çeşmesinin yapımı kaç yıl sürmüştür?",
+      "pt": "Quantos anos demorou a construção da Estátua da Fonte de Heidel?",
+      "zh": "請問海地爾的水池石雕像歷經幾年才完工？",
+      "ja": "ハイデル噴水台の石像の工事期間は何年だったでしょうか？"
+    },
+    "answers": [
+      {
+        "no": 1,
+        "content": {
+          "ko": "10년",
+          "en": "10 years",
+          "ru": "10 лет",
+          "th": "10 ปี",
+          "tr": "10 Yıl",
+          "pt": "10 anos",
+          "zh": "10年",
+          "ja": "10年"
+        }
+      },
+      {
+        "no": 2,
+        "content": {
+          "ko": "5년",
+          "en": "5 years",
+          "ru": "5 лет",
+          "th": "5 ปี",
+          "tr": "5 Yıl",
+          "pt": "5 anos",
+          "zh": "5年",
+          "ja": "5年"
+        }
+      },
+      {
+        "no": 3,
+        "content": {
+          "ko": "3년",
+          "en": "3 years",
+          "ru": "3 года",
+          "th": "3 ปี",
+          "tr": "3 Yıl",
+          "pt": "3 anos",
+          "zh": "3年",
+          "ja": "3年"
+        }
+      },
+      {
+        "no": 4,
+        "content": {
+          "ko": "알 수 없다",
+          "en": "Unknown",
+          "ru": "Неизвестно",
+          "th": "ไม่สามารถรู้ได้",
+          "tr": "Bilinmiyor",
+          "pt": "Desconhecido",
+          "zh": "無法得知",
+          "ja": "不明"
+        }
+      }
+    ],
+    "reward_rate": "20%",
+    "reward_condition": {
+      "ko": "정답률 50퍼센트 이상에게 지급 - ko",
+      "en": "정답률 50퍼센트 이상에게 지급 - en",
+      "ru": "정답률 50퍼센트 이상에게 지급 - ru",
+      "th": "정답률 50퍼센트 이상에게 지급 - th",
+      "tr": "정답률 50퍼센트 이상에게 지급 - tr",
+      "pt": "정답률 50퍼센트 이상에게 지급 - pt",
+      "zh": "정답률 50퍼센트 이상에게 지급 - zh",
+      "ja": "정답률 50퍼센트 이상에게 지급 - ja"
+    },
+    "rewards": [
+      {
+        "no": 1,
+        "img_url": "/quiz_10/item_1.png",
+        "desc": {
+          "ko": "Black Desert PC & Console :  [이벤트] 진귀한 툰그라드 액세서리 상자 \n1개",
+          "en": "Black Desert PC & Console : [Event] Rare Tungrad Accessory Box x1",
+          "ru": "Black Desert PC & Console : [Ивент] Сундук с ценными украшениями Тунра (1 шт.)",
+          "th": "Black Desert PC & Console : [กิจกรรม] กล่องเครื่องประดับทุนกราทที่ล้ำค่า 1 อัน",
+          "tr": "Black Desert PC & Console : [Etkinlik] Lüks Tungrad Aksesuar Kutusu x1",
+          "pt": "Black Desert PC & Console : 1x [Evento] Caixa de Acessórios Tungrad Luxuoso",
+          "zh": "Black Desert PC & Console : [活動]珍貴的特恩拉德飾品箱子 1個",
+          "ja": "Black Desert PC & Console : [EV] 希少なツングラドアクセサリーボックス 1個"
+        }
+      },
+      {
+        "no": 2,
+        "img_url": "/quiz_10/item_2.png",
+        "desc": {
+          "ko": "Black Desert Mobile : 영광의 길 입장권 5개",
+          "en": "Black Desert Mobile : Path of Glory Entry Pass x5",
+          "ru": "Black Desert Mobile : Допуск доп. входа Пути славы х5",
+          "th": "Black Desert Mobile : ใบเข้าเส้นทางศักดิ์ศรีเพิ่มเติม 5 อัน",
+          "tr": "Black Desert Mobile : Path of Glory Entry Pass x5",
+          "pt": "Black Desert Mobile : x5 Entrada p/ Caminho da Honra",
+          "zh": "Black Desert Mobile : 榮耀之路Season9額外入場券 5個",
+          "ja": "Black Desert Mobile : 栄光の道追加入場券5個"
+        }
+      }
+    ]
+  }
+]
